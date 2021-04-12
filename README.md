@@ -31,13 +31,13 @@ yarn install
 yarn dev
 ```
 
+Visit [`localhost:4000`](http://localhost:4000) from your browser.
+
 ## Build
 
 ```bash
 yarn build
 ```
-
-Visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 ## Sources
 
