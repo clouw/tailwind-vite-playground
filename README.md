@@ -20,7 +20,7 @@ yarn global add degit
 In your terminal, run the following command
 
 ```bash
-yarn exec degit clouw/tailwind-vite-playground web
+yarn exec degit ramon-sg/tailwind-vite-playground web
 cd web
 yarn install
 ```
